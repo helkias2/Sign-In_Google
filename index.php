@@ -44,5 +44,25 @@
         <p id="token">Token Google: </p>
       </div>
     
+      <div>
+          <table>
+            <thead>
+              <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Endereco</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Antonio</td>
+                <td>30</td>
+                <td>Rua da Rancheira</td>
+              </tr>
+            </tbody>
+          </table>
+      </div>
   </body>
 </html>
